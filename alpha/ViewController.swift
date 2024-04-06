@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  alpha
-//
-//  Created by xabdaz on 05/04/24.
-//
 
 import UIKit
 
@@ -11,9 +5,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.view.backgroundColor = UIColor(red: 0.05, green: 0.12, blue: 0.25, alpha: 1.00) // TODO: Change to variable
     }
-
-
 }
 
