@@ -16,4 +16,8 @@ target 'alpha' do
   pod 'FirebaseFirestore'
 
   pod 'GoogleSignIn'
+
+  pod 'RxSwift', '~> 5', :inhibit_warnings => true
+  pod 'RxCocoa', '~> 5', :inhibit_warnings => true
+  pod 'RxDataSources', '~> 4', :inhibit_warnings => true
 end
