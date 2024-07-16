@@ -1,0 +1,66 @@
+{
+	"code": "00",
+	"description": "Success Login",
+	"data": {
+		"kode_agen": "11020871",
+		"last_login": "2024-06-04T10:09:32+07:00",
+		"level": "employee",
+		"list_store": [
+			{
+				"store_id": "000001000001178",
+				"store_name": "BARU ",
+				"type": "edc"
+			},
+			{
+				"store_id": "000001989311273",
+				"store_name": "UTAMA 99",
+				"type": "edc"
+			},
+			{
+				"store_id": "000001999000041",
+				"store_name": "JUNGLELAND",
+				"type": "edc"
+			},
+			{
+				"store_id": "000001999002873",
+				"store_name": "ZIANKA",
+				"type": "edc"
+			},
+			{
+				"store_id": "9360000200400008335",
+				"store_name": "TEST KTP NWPWP",
+				"type": "qris"
+			},
+			{
+				"store_id": "9360000200400749193",
+				"store_name": "ROTI BROO RAGUNAN",
+				"type": "qris"
+			},
+			{
+				"store_id": "9360000200700004786",
+				"store_name": "Ayam Kelas",
+				"type": "qris"
+			},
+			{
+				"store_id": "9360000200700005056",
+				"store_name": "roti broo",
+				"type": "qris"
+			},
+			{
+				"store_id": "9360000202104614723",
+				"store_name": "JUNGLELAND",
+				"type": "qris dynamic"
+			}
+		],
+		"mid_induk": "001989311273",
+		"nama": "Dala 712",
+		"reference_id": "RF82ae3275",
+		"status": 1,
+		"username": "085182545712",
+		"token": "8pecvbpy5s4fcm0o8yk39as0o4zzgvrbd5937g44ni5ga9r6hx003t6wmbepp3i9",
+		"nik": "7113467582391240",
+		"device_id": "$$sakdakjsd",
+		"nama_lengkap": "Boy Ardan Wiratama",
+		"rating_status": 1
+	}
+}
